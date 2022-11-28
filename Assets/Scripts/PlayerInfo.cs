@@ -4,9 +4,6 @@ using UnityEngine;
 
 public class PlayerInfo : MonoBehaviour
 {
-	private Text playerName;
-
-
 	private void Awake()
 	{
 
